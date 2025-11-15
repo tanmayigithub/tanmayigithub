@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Piyusha Mukherjee
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Tanmayi Divakarla
 </h2>   
  
 <p align="center" display="block">
@@ -13,7 +13,6 @@
 ### About Me
 
 - 📚 Computer Science Student at <a href="https://srmap.edu.in/">SRM University AP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-- 👨‍💻 Currently diving into the MERN stack (MongoDB, Express.js, React, and Node.js)
 - 🔭 Looking to collaborate on Web development Projects.
 - 🌱 Love Exploring New Technologies.
 - ⚡ Fun fact I love fixing bugs. 💖
