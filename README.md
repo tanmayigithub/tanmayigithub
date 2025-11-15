@@ -72,18 +72,5 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tanmayigithub&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayigithub&layout=compact&theme=radical" />
-</p>
-
----
-
-# 🚀 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanmayigithub&style=for-the-badge&color=FF6A00" />
-</p>
 
 
