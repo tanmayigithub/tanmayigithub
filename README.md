@@ -23,19 +23,21 @@
 ---
 
 ## 🌐 Connect with Me
-<a href="mailto:tanmayidivakarla@srmap.edu.in" target="_blank">
+
+<a href="mailto:tanmayidivakarla15@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/tanmayi-divakarla" target="_blank">
+
+<a href="https://www.linkedin.com/in/tanmayi-divakarla-053b52258" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://github.com/tanmayigithub" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
----
 
 # 🛠️ TechStack  
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 30px>
